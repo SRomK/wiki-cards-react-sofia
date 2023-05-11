@@ -1,5 +1,15 @@
 .App {
+  background: #282c34;
   text-align: center;
+  height: 400vh; /*100 del viewport, el alto del dispositivo*/
+  background: linear-gradient(
+    180deg,
+    rgb(155, 233, 139) 0%,
+    rgb(75, 199, 44) 15%,
+    rgb(32, 128, 19) 30%,
+    rgb(10, 81, 10) 45%,
+    rgb(20, 45, 25) 100%
+  );
 }
 
 .App-logo {
