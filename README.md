@@ -1,3 +1,13 @@
+# Rick and Morty Wiki Cards Project
+
+I created this project in order to demonstrate how I create a basic application with React and how I use basic React concepts.
+Through this project I show how to `fetch` data from an API and how I use this data througout the application by using `props` between the parent component and child.
+Also I demonstrate how I `map` through a list and render the information. 
+Regarding the filter, it will `filter` by name and if the user erased the query all the cards will go back to the previous state, where they were rendered without filter. 
+
+
+# Created using:
+
 # GitHub Codespaces ♥️ React
 
 Welcome to your shiny new Codespace running React! We've got everything fired up and running for you to explore React.
